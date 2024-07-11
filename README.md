@@ -6,16 +6,14 @@ The Brain Booster app is designed to enhance mental agility through quick mathem
 
 ## 📷 Screenshots
 
-## 📷 Screenshots
-
 <table>
   <tr>
-    <td><img src="image_src/gif-brain.gif" alt="GIF Brain" width="100%"></td>
-    <td><img src="image_src/br_img1.jpg" alt="Image 1" width="100%"></td>
+    <td><img src="image_src/gif-brain.gif" alt="GIF Brain" width="300px" height="300px"></td>
+    <td><img src="image_src/br_img1.jpg" alt="Image 1" width="300px" height="300px"></td>
   </tr>
   <tr>
-    <td><img src="image_src/br_img2.jpg" alt="Image 2" width="100%"></td>
-    <td><img src="image_src/br_img3.jpg" alt="Image 3" width="100%"></td>
+    <td><img src="image_src/br_img2.jpg" alt="Image 2" width="300px" height="300px"></td>
+    <td><img src="image_src/br_img3.jpg" alt="Image 3" width="300px" height="300px"></td>
   </tr>
 </table>
 
